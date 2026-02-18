@@ -1,0 +1,6 @@
+Product button is clicked
+Verify user is navigated to ALL PRODUCTS page successfully
+Verify 'Write Your Review' is visible
+Enter name, email and review added successfully
+Verify success message 'Thank you for your review.'
+All test cases passed!

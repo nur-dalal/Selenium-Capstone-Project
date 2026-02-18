@@ -1,0 +1,5 @@
+Verified that home page is visible successfully
+Product button is clicked
+Message: 
+
+All test cases passed!

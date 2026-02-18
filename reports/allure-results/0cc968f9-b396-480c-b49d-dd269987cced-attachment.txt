@@ -1,0 +1,5 @@
+Verified that home page is visible successfully
+Verified that cart page is displayed
+Remove product successfully
+Verified that product is removed from the cart
+All test cases passed!

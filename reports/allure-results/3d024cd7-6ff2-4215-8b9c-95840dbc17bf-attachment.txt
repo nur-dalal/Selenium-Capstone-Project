@@ -1,0 +1,7 @@
+Verified that home page is visible successfully
+Product button is clicked
+Verify user is navigated to ALL PRODUCTS page successfully
+Searching done
+Verify 'SEARCHED PRODUCTS' is visible
+Verify all the products related to search are visible
+All test cases passed!

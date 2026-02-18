@@ -1,0 +1,5 @@
+Verify that home page is visible successfully
+'Signup / Login' button is clicked
+Verify 'New User Signup!' is visible
+Verify error 'Email Address already exist!' is visible
+All test cases passed!

@@ -1,0 +1,11 @@
+Verified that home page is visible successfully
+'Signup / Login' button is clicked
+Verify that 'ENTER ACCOUNT INFORMATION' is visible
+Details submission successfull
+'Sign up for our newsletter!
+Address information submitted successfully
+Verify that 'ACCOUNT CREATED!' is visible
+Verify ' Logged in as username' at top -->  Logged in as Nur
+Message: 
+
+All test cases passed!

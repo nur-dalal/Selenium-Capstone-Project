@@ -1,0 +1,10 @@
+Verify that home page is visible successfully
+Verified 'Login to your account' is visible
+Login successful
+Verify ' Logged in as username' at top -->  Logged in as Nur
+Verified that cart page is displayed
+Verified Address Details and Review Your Order
+'Place Order' submitted sucessfully
+Payment details submitted successfully
+Verified success message 'Congratulations! Your order has been confirmed!'
+All test cases passed!

@@ -1,0 +1,5 @@
+Verified that home page is visible successfully
+Product button is clicked
+'View Product' of first product
+Verify that product is displayed in cart page with exact quantity
+All test cases passed!

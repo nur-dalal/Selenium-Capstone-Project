@@ -1,0 +1,5 @@
+Verify that categories are visible on left side bar
+Verify that category page is displayed and confirm text 'WOMEN - DRESS PRODUCTS'
+Verify that category page is displayed and confirm text 'MEN - JEANS PRODUCTS'
+Verified that user is navigated to that category page
+All test cases passed!

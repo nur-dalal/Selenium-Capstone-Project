@@ -1,0 +1,5 @@
+Verify that home page is visible successfully
+Verify 'SUBSCRIPTION' is visible
+Verify that page is scrolled up and 'Full-Fledged practice website for Automation Engineers' text is visible on screen
+Full-Fledged practice website for Automation Engineers
+All test cases passed!

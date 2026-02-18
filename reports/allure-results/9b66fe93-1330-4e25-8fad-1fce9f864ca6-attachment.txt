@@ -1,0 +1,4 @@
+Verified that home page is visible successfully
+Verify text 'SUBSCRIPTION'
+Verify success message 'You have been successfully subscribed!' is visible
+All test cases passed!

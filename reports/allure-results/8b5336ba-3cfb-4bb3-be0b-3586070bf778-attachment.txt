@@ -1,0 +1,7 @@
+Verify that home page is visible successfully
+Verify 'Login to your account' is visible
+Login successful
+Verify that 'Logged in as Nur' is visible
+Logout successfully!
+Verify that user is navigated to login page
+All test cases passed!

@@ -1,0 +1,23 @@
+Verify that home page is visible successfully
+'Signup / Login' button is clicked
+Verify 'New User Signup!' is visible
+Verify that 'ENTER ACCOUNT INFORMATION' is visible
+Details submission successfull
+'Sign up for our newsletter!
+Address information submitted successfully
+Verify that 'ACCOUNT CREATED!' is visible
+Logged in as Nur
+Product button is clicked
+Verify that cart page is displayed
+YOUR DELIVERY ADDRESS
+Mr. Nur Dalal
+Wipro
+Taldangra
+Bankura
+Bankura WB 722152
+India
+6294939500
+Verify that the delivery address and the billing address is same address filled at the time registration of account
+Verify that 'ACCOUNT DELETED!' is visible
+Continue....
+All test cases passed!

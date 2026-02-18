@@ -1,0 +1,6 @@
+Verify 'RECOMMENDED ITEMS' are visible
+Stylish Dress is present
+Winter Top is present
+Summer White Top is present
+Verify that product is displayed in cart page
+All test cases passed!

@@ -1,0 +1,16 @@
+Verified that home page is visible successfully
+'Signup / Login' button is clicked
+Verify that 'ENTER ACCOUNT INFORMATION' is visible
+Details submission successfull
+'Sign up for our newsletter!
+Address information submitted successfully
+Verify that 'ACCOUNT CREATED!' is visible
+Verify ' Logged in as username' at top -->  Logged in as Nur
+Verified that cart page is displayed
+Verified Address Details and Review Your Order
+'Place Order' submitted sucessfully
+Payment details submitted successfully
+Verified success message 'Congratulations! Your order has been confirmed!'
+Verify that 'ACCOUNT DELETED!' is visible
+Continue....
+All test cases passed!

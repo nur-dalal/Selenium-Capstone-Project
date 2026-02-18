@@ -1,0 +1,23 @@
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=139.0.7258.155)
+Stacktrace:
+0   chromedriver                        0x00000001048a2e00 cxxbridge1$str$ptr + 2742224
+1   chromedriver                        0x000000010489ad00 cxxbridge1$str$ptr + 2709200
+2   chromedriver                        0x00000001043e50b8 cxxbridge1$string$len + 90520
+3   chromedriver                        0x00000001043beea0 chromedriver + 143008
+4   chromedriver                        0x00000001044546b8 cxxbridge1$string$len + 546712
+5   chromedriver                        0x000000010446d4c0 cxxbridge1$string$len + 648608
+6   chromedriver                        0x00000001044208f4 cxxbridge1$string$len + 334292
+7   chromedriver                        0x0000000104866478 cxxbridge1$str$ptr + 2494024
+8   chromedriver                        0x00000001048696a4 cxxbridge1$str$ptr + 2506868
+9   chromedriver                        0x00000001048473b0 cxxbridge1$str$ptr + 2366848
+10  chromedriver                        0x0000000104869f4c cxxbridge1$str$ptr + 2509084
+11  chromedriver                        0x00000001048384a8 cxxbridge1$str$ptr + 2305656
+12  chromedriver                        0x0000000104889644 cxxbridge1$str$ptr + 2637844
+13  chromedriver                        0x00000001048897d0 cxxbridge1$str$ptr + 2638240
+14  chromedriver                        0x000000010489a94c cxxbridge1$str$ptr + 2708252
+15  libsystem_pthread.dylib             0x00000001908afc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x00000001908aab80 thread_start + 8
+
+All test cases passed!

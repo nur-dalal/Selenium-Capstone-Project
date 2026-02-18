@@ -1,0 +1,5 @@
+Verify that home page is visible successfully
+Verify 'Login to your account' is visible
+Login successful
+Verify error 'Your email or password is incorrect!' is visible
+All test cases passed!

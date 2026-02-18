@@ -1,0 +1,15 @@
+Verified that home page is visible successfully
+Product button is clicked
+Verify both products are added to Cart
+Blue Top
+Women > Tops
+Rs. 500
+1
+Rs. 500
+Men Tshirt
+Men > Tshirts
+Rs. 400
+1
+Rs. 400
+Verify their prices, quantity and total price
+All test cases passed!

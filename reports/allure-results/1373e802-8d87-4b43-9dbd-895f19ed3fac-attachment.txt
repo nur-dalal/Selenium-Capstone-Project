@@ -1,0 +1,7 @@
+Verify that home page is visible successfully
+Verify 'GET IN TOUCH' is visible
+file uploaded successfully!
+Message submitted successfully
+Verify success message 'Success! Your details have been submitted successfully.' is visible
+The landed to home page successfully
+All test cases passed!

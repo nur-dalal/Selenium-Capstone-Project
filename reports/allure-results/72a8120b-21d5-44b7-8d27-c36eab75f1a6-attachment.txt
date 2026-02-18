@@ -1,0 +1,8 @@
+Verified that home page is visible successfully
+Product button is clicked
+Verify user is navigated to ALL PRODUCTS page successfully
+The products list is visible
+'View Product' of first product
+User is landed to product detail page
+Verified that detail detail is visible: product name, category, price, availability, condition, brand
+All test cases passed!

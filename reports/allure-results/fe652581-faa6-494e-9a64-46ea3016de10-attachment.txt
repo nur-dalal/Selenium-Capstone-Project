@@ -1,0 +1,24 @@
+Verify that home page is visible successfully
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=139.0.7258.155)
+Stacktrace:
+0   chromedriver                        0x0000000102a72e00 cxxbridge1$str$ptr + 2742224
+1   chromedriver                        0x0000000102a6ad00 cxxbridge1$str$ptr + 2709200
+2   chromedriver                        0x00000001025b50b8 cxxbridge1$string$len + 90520
+3   chromedriver                        0x000000010258eea0 chromedriver + 143008
+4   chromedriver                        0x00000001026246b8 cxxbridge1$string$len + 546712
+5   chromedriver                        0x000000010263d4c0 cxxbridge1$string$len + 648608
+6   chromedriver                        0x00000001025f08f4 cxxbridge1$string$len + 334292
+7   chromedriver                        0x0000000102a36478 cxxbridge1$str$ptr + 2494024
+8   chromedriver                        0x0000000102a396a4 cxxbridge1$str$ptr + 2506868
+9   chromedriver                        0x0000000102a173b0 cxxbridge1$str$ptr + 2366848
+10  chromedriver                        0x0000000102a39f4c cxxbridge1$str$ptr + 2509084
+11  chromedriver                        0x0000000102a084a8 cxxbridge1$str$ptr + 2305656
+12  chromedriver                        0x0000000102a59644 cxxbridge1$str$ptr + 2637844
+13  chromedriver                        0x0000000102a597d0 cxxbridge1$str$ptr + 2638240
+14  chromedriver                        0x0000000102a6a94c cxxbridge1$str$ptr + 2708252
+15  libsystem_pthread.dylib             0x00000001908afc0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x00000001908aab80 thread_start + 8
+
+All test cases passed!

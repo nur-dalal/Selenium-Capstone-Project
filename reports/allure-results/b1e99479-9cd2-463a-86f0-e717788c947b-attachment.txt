@@ -1,0 +1,17 @@
+Product button is clicked
+Verify user is navigated to ALL PRODUCTS page successfully
+Verify 'SEARCHED PRODUCTS' is visible
+Verify all the products related to search are visible
+Soft Stretch Jeans is present
+Regular Fit Straight Jeans is present
+Grunt Blue Slim Fit Jeans is present
+Verify all the products related to search are visible
+Login successful
+Soft Stretch Jeans is present
+Regular Fit Straight Jeans is present
+Grunt Blue Slim Fit Jeans is present
+Verify that those products are visible in cart after login as well
+Remove all products that have been added
+Message: 
+
+All test cases passed!

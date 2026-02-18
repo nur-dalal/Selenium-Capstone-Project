@@ -1,0 +1,6 @@
+Product button is clicked
+BRAND -  POLO PRODUCTS
+Verify that user is navigated to brand page and brand products are displayed
+BRAND - H&M PRODUCTS
+Verify that user is navigated to that brand page and can see products
+All test cases passed!
